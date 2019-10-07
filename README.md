@@ -4,7 +4,7 @@
 
 ## Обзоры
 
-Руотинг в React [[link]](https://zen.yandex.ru/media/id/5cb0adc9082fd100b43be882/reactrouting-obzor-aktualnyh-routerov-dlia-react-5d8e2112ba281e00b14f1adf "[link]")
+Роутинг в React [[link]](https://zen.yandex.ru/media/id/5cb0adc9082fd100b43be882/reactrouting-obzor-aktualnyh-routerov-dlia-react-5d8e2112ba281e00b14f1adf "[link]")
 
 ## Рефакторинг
 
@@ -14,6 +14,8 @@
 
 Создаем массив уникальных значений [[link]](https://zen.yandex.ru/profile/editor/id/5cb0adc9082fd100b43be882 "[link]")  
 Превращаем массив в объект [[link]](https://zen.yandex.ru/media/id/5cb0adc9082fd100b43be882/prevratit-massiv-v-obekt-frontend-zadachi-5cb0add757a23700b3c31557 "[link]")  
-Пишем рекурсивную функцию в 3 простых шага. [[link]](https://zen.yandex.ru/media/id/5cb0adc9082fd100b43be882/pishem-rekursivnuiu-funkciiu-v-3-prostyh-shaga-frotend-zadachi-5d92520de4f39f00b29f2019 "[link]")
+Пишем рекурсивную функцию в 3 простых шага [[link]](https://zen.yandex.ru/media/id/5cb0adc9082fd100b43be882/pishem-rekursivnuiu-funkciiu-v-3-prostyh-shaga-frotend-zadachi-5d92520de4f39f00b29f2019 "[link]")
 
 ## ToDo
+
+Добавить Emodji
